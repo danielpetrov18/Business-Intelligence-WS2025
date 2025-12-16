@@ -36,3 +36,14 @@ python3 -m pip install -r DPIM/requirements.txt
 #### Evaluation Logs
 
 The paper makes use of 14 event logs 10 of which can be found under `https://data.4tu.nl/authors/acf80d21-bb77-4762-a219-2110947904b1`. The other 4 can be easily found on Google by entering their respective name.
+
+#### How to run
+
+When trying to recreate the evaluation results of the paper one can perform the following command in the terminal for individual event logs:
+
+```bash
+# Note that event logs need to be uncompressed first.
+python3 DPIM/main.py "Evaluation Logs/<event log>" -t 0.95 -e 0.01 -l <varies> -u <varies>
+```
+
+The threshold `t` is always `0.95` and the epsilon `e` always `0.01` for all experiments. The lower and upper bounds vary based on the event log used. To find that information go to `DPIM/README.md`.
