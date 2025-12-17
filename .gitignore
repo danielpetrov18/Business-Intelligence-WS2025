@@ -30,3 +30,8 @@ Thumbs.db
 # Event logs not native to the original project (DPIM)
 # =========================
 Evaluation Logs/*.xes
+
+# =========================
+# During development json files were used to store some data
+# =========================
+evaluation_results.json
