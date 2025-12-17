@@ -20,17 +20,19 @@ python3 -m venv venv
 source venv/bin/activate
 
 # 3.) Install dependencies
-python3 -m pip install -r DPIM/requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 
 #### Project structure
 
 ```bash
 .
-├── Evaluation Logs # Event logs used for evaluation of the DPIM algorithm 
-├── DPIM.pdf        # The paper
-├── DPIM            # The implementation of the Differentially Private Inductive Miner
-└── README.md 
+├── DPIM                  # The practical project that implements the paper 
+├── DPIM.pdf              # Differentially Private Inductive Miner paper
+├── eval_experiment.ipynb # Recreation of the evaluation in the paper
+├── Evaluation Logs       # Event logs used for evaluation in the paper
+├── README.md             # Summary and additional information
+└── requirements.txt      # All dependencies for the project
 ```
 
 #### Evaluation Logs
