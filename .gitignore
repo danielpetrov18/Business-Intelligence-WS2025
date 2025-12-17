@@ -27,6 +27,6 @@ __pycache__/
 Thumbs.db
 
 # =========================
-# Event logs
+# Event logs not native to the original project (DPIM)
 # =========================
-*.xes
+Evaluation Logs/*.xes
