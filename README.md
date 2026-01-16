@@ -103,4 +103,4 @@ Similar results can be observed in our experiments compared to the ones reported
 * Petrov Daniel a12028482 - **Replication**
 * Fallah Mohammad Mahdi a01428941
 * Jargalsaikhan Solongo a01348898
-* Watholowitsch Alexander a11911292
+* Watholowitsch Alexander a11911292 - **Additional investigation**
