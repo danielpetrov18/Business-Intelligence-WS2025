@@ -44,7 +44,7 @@ python3 -m pip install -r requirements.txt
 
 This project was developed and tested on the following system:
 
-* **OS**: Linux Mint 22.2 x86_64
+* **OS**: EndeavourOS x86_64
 * **CPU**: 11th Gen Intel i7-11370H (8) @ 3.300GHz
 * **RAM**: 16GB DDR4
 * **GPU**: NVIDIA GeForce RTX 3060 with 8GB VRAM
@@ -99,8 +99,8 @@ Similar results can be observed in our experiments compared to the ones reported
 
 #### Contributions
 
-* Markschies Benjamin Max a12133418
+* Markschies Benjamin Max a12133418 - **Presentation Slides + Presentation**
 * Petrov Daniel a12028482 - **Replication**
-* Fallah Mohammad Mahdi a01428941
-* Jargalsaikhan Solongo a01348898
-* Watholowitsch Alexander a11911292 - **Additional investigation**
+* Fallah Mohammad Mahdi a01428941 - **Additional Investigation**
+* Jargalsaikhan Solongo a01348898 - **Presentation Slides**
+* Watholowitsch Alexander a11911292 - **Additional Investigation**
